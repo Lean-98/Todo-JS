@@ -1,5 +1,4 @@
-# Webpack Starter
-Este es el proyecto inicial para crear aplicaciones uitlizando webpack.
+# TodoAPP:
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
@@ -18,3 +17,7 @@ Para la build de Desarrollo y localhost:
 npm run build:dev
 npm start
 ```
+
+### HTML Template
+
+El template perteneche a : @SindreSorhus(https://sindresorhus.com/)
